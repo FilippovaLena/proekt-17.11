@@ -113,7 +113,7 @@ table {
 } /* Стили для таблицы */
 
 th, td {
-    padding: 12px 15; 
+    padding: 12px 15px; 
 } /* Стили для ячеек таблицы */
 
 footer {
